@@ -1,3 +1,5 @@
+***OUTDATED***
+
 20/3/2022   
 
 Only have gun randomizer now
