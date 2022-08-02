@@ -2,7 +2,7 @@
 
 20/3/2022   
 
-Only have gun randomizer now
+Only have gun randomizer
 
 WIP:attachment randomizer and melee randomizer
 
